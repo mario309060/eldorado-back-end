@@ -17,3 +17,5 @@ TESTE PARA O ELDORADO
 
 > TESTE COM SUCESSO - A APLICAÇAO FEZ A CONEXÃO COM O BANCO DE DADOS.
 
+> API PATH /categories method POST (criar nova category)
+ criação e teste com sucesso.
