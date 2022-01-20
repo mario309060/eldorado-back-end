@@ -19,3 +19,6 @@ TESTE PARA O ELDORADO
 
 > API PATH /categories method POST (criar nova category)
  criação e teste com sucesso.
+
+> API PATH /categories method GET (seleciona todas categories)
+ criação e teste com sucesso
