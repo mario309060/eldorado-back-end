@@ -23,5 +23,11 @@ TESTE PARA O ELDORADO
 > API PATH /categories method GET (seleciona todas categories)
  criação e teste com sucesso
 
-> API PATH /categories method DELETE (delete one category)
+> API PATH /categories/{id} method DELETE (delete one category)
  criação e teste com sucesso
+
+> API PATH /devices method POST > criado com sucesso
+
+> API PATH /devices method GET  > criado com sucesso
+
+> API PATH /devices/{id} method DELETE > criado com sucesso
